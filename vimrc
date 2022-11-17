@@ -13,3 +13,4 @@
 
 set nocompatible     " remove backward compatibility with vi
 set number           " show line numbers
+set history=1000     " remember last n searches and commands
