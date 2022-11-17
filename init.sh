@@ -4,5 +4,5 @@ FILE=~/.vimrc
 if [[ -f "$FILE" ]]; then
      echo "$FILE exists."
 else
-     ln -s ./vimrc "$FILE"
+     ln -s ~/.vim/vimrc "$FILE"
 fi
