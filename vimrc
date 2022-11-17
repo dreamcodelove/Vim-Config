@@ -12,3 +12,4 @@
 " ---------------------------------------------------------------
 
 set nocompatible     " remove backward compatibility with vi
+set number           " show line numbers
