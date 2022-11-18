@@ -13,4 +13,5 @@
 
 set nocompatible     " remove backward compatibility with vi
 set number           " show line numbers
+set ruler            " show curser postion at bottom
 set history=1000     " remember last n searches and commands
