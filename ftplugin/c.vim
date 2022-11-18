@@ -11,5 +11,11 @@
 "     - Setup C specifec configuration
 " -----------------------------------------------------------------------------
 
-syntax off         " color by token type
- 
+syntax off          " color by token type
+
+" editing configuration
+set expandtab       " replace tab with equivalent spaces
+set tabstop=4       " width of tab in spaces
+set softtabstop=4   " spaces for each tab press
+set shiftwidth=4    " spaces for each level of indentation
+
