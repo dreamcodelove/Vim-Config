@@ -12,6 +12,7 @@
 " -----------------------------------------------------------------------------
 
 syntax off          " color by token type
+set relativenumber  " show line numbers relative to current line
 
 " editing configuration
 set expandtab       " replace tab with equivalent spaces
